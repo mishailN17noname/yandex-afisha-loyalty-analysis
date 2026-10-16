@@ -1,0 +1,8 @@
+.env
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
